@@ -1,0 +1,20 @@
+.form {
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.error {
+  color: rgb(112, 20, 95);
+}
+
+h3{
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: oblique;
+  color: white;
+  background-color: darkorchid;
+  text-align: center;
+
+}
+
+
